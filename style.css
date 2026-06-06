@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-　background-color: lightblue;
+  background-color: lightblue;
   margin: 0;
   padding: 30px;
   color: #333;
@@ -38,7 +38,7 @@ h1, h2, h3 {
 a {
   color: var(--theme-color);
   text-decoration: none;
-　font-weight: bold
+  font-weight: bold
 }
 
 /* --------------------
